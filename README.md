@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Luis Barqueira, and I am a Flutter & Dart enthusiast. 👋
 
 <!--
 **lbarqueira/lbarqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
