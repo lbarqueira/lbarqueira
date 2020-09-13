@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-barqueira-7369092/">
-<img src="https://img.shields.io/badge/-LinkedIn-%230073f4" alt="LinkedIn"/></a> 
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://twitter.com/barqueira">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>
   
