@@ -1,12 +1,10 @@
-### Hi. Nice to meet you! I’m Luis Barqueira. 👋
+### Hi! Nice to meet you! I’m Luis Barqueira. 👋
 
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-barqueira-7369092/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://twitter.com/barqueira">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>
-<a href="https://dev.to/lbarqueira">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="DEV" /></a>
   
   
 <!--
