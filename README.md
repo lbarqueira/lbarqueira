@@ -1,7 +1,15 @@
-### Hi. I’m Luis Barqueira. 👋
+### Hi. Nice to meet you! I’m Luis Barqueira. 👋
 
 <!--
 **lbarqueira/lbarqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/luis-barqueira-7369092/">
+<img src="https://img.shields.io/badge/-LinkedIn-%230073f4" alt="LinkedIn"/></a> 
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://twitter.com/barqueira">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>
 
 Here are some ideas to get you started:
 
