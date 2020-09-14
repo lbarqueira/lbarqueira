@@ -2,9 +2,12 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-barqueira-7369092/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/>
+</a> 
 <a href="https://twitter.com/barqueira">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=lbarqueira.lbarqueira)  
   
 <!--
@@ -15,10 +18,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Personal Stuffs:
-- 🔭 I’m currently working on Flutter android mobile app development
-- 🌱 I’m currently learning Flutter & Dart
-- 💬 Ask me about anything!
-- 📫 How to reach me: ![](https://twitter.com/barqueira")
+**About Personal Stuffs:**
+- 👨🏽‍💻 I’m currently working on Flutter mobile app development;
+- 🌱 I’m currently learning Flutter & Dart;
+- 💬 Ask me about anything! I will be glead to help; 
+- 📫 How to reach me: [@barqueira](https://twitter.com/barqueira);
+
+**Languages and Tools:**  
 
 
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lbarqueira&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+</details>
