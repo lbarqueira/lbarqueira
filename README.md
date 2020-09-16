@@ -6,6 +6,9 @@
 <a href="https://twitter.com/barqueira">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" />
 </a>
+<a href="https://dev.to/lbarqueira">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luis Barqueira's DEV Profile" height="25" width="25">
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lbarqueira.lbarqueira)  
   
