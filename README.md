@@ -10,7 +10,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luis Barqueira's DEV Profile" height="25" width="25">
 </a>
 <a href="https://www.reddit.com/user/lbarqueira/">
-  <img align="left" alt="Barqueira's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lbarqueira.lbarqueira)  
