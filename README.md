@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **About Personal Stuffs:**
-- 👨🏽‍💻 I’m currently working on Flutter mobile app development;
+- 👨🏽‍💻 I’m currently working on Flutter web and mobile app development;
 - 🌱 I’m currently learning Flutter & Dart;
 - 💬 Ask me about anything! I will be glad to help; 
 - 📫 How to reach me: [@barqueira](https://twitter.com/barqueira);
