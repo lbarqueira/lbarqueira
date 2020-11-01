@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 -->
 **About Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on Flutter web and mobile app development;
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> Fan
 - 🌱 I’m currently learning Flutter & Dart;
 - 💬 Ask me about anything! I will be glad to help; 
 - 📫 How to reach me: [@barqueira](https://twitter.com/barqueira);
