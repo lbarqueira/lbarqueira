@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 **About Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on Web & Mobile app development;
 - 🌱 I’m currently learning Flutter and Dart;
-- Big fan of <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"></code>
+- Big fan of <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"></code> and <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 - 💬 Ask me about anything! I will be glad to help; 
 - 📫 How to reach me: [@barqueira](https://twitter.com/barqueira);
 
